@@ -1,14 +1,14 @@
 <mxfile host="65bd71144e">
     <diagram id="lnXspm3tjcVZB_VsvOI3" name="Page-1">
-        <mxGraphModel dx="528" dy="1499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="528" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="11" value="Jack Langdon&lt;div&gt;May 2026&lt;/div&gt;&lt;div&gt;NOT Gate with Transistor&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="150" y="-120" width="150" height="50" as="geometry"/>
+                <mxCell id="11" value="Jack Langdon&lt;div&gt;May 2026&lt;/div&gt;&lt;div&gt;NOT Gate with Gates&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="40" width="130" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="A | Output&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;--------------&lt;br&gt;&lt;/font&gt;&lt;div&gt;0 | 1&lt;/div&gt;&lt;div&gt;1 | 0&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="20" y="10" width="70" height="70" as="geometry"/>
+                    <mxGeometry x="50" y="87" width="70" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="78" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="45">
                     <mxGeometry relative="1" as="geometry">
